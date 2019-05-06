@@ -2031,7 +2031,7 @@ menu menuitem arrow,
  frame > border {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #ff0000;
+	border-color: #777777;
 	border-right-color:	@bs_gen;
 
 	border-width:4px;
