@@ -7,7 +7,7 @@
 # Edits will be overwritten
 #
     
-gtk-color-scheme = "base_color:#c6b2a8\nfg_color:#000000\ntooltip_fg_color:#000000\nselected_bg_color:#a8978f\nselected_fg_color:#000000\ntext_color:#000000\nbg_color:#c6b2a8\ninsensitive_bg_color:#a8978f\ntooltip_bg_color:#a8978f"
+gtk-color-scheme = "base_color:#abaaa3\nfg_color:#000000\ntooltip_fg_color:#000000\nselected_bg_color:#a8978f\nselected_fg_color:#000000\ntext_color:#000000\nbg_color:#abaaa3\ninsensitive_bg_color:#a8978f\ntooltip_bg_color:#a8978f"
 
 style "cde_style_1"
 {
@@ -136,9 +136,9 @@ style "cde_style_4"
 style "cde_style_5"
 {
     fg[NORMAL]  ="#000000"
-    bg[NORMAL]  ="#c6b2a8"
+    bg[NORMAL]  ="#abaaa3"
     text[NORMAL]="#000000"
-    base[NORMAL]="#c6b2a8"
+    base[NORMAL]="#abaaa3"
 
     fg[ACTIVE]  ="#000000"
     bg[ACTIVE]  ="#a8978f"
@@ -146,22 +146,22 @@ style "cde_style_5"
     base[ACTIVE]="#a8978f"
 
     fg[PRELIGHT]="#000000"
-    bg[PRELIGHT]="#c6b2a8"
+    bg[PRELIGHT]="#abaaa3"
     text[PRELIGHT]="#000000"
-    base[PRELIGHT] ="#c6b2a8"
+    base[PRELIGHT] ="#abaaa3"
 
-    fg[SELECTED]="#c6b2a8"
+    fg[SELECTED]="#abaaa3"
     bg[SELECTED]="#000000"
-    text[SELECTED]="#c6b2a8"
+    text[SELECTED]="#abaaa3"
     base[SELECTED]="#000000"
 
     #this is the dark color of the etched in insensitive text when on normal background of widget
     fg[INSENSITIVE]="#6b605b"
-    bg[INSENSITIVE]="#c6b2a8"
+    bg[INSENSITIVE]="#abaaa3"
     #insensitive text color in entry and also fg color of etched in text in combo box
     text[INSENSITIVE]="#6b605b"
     #in cde this is normal bg color
-    base[INSENSITIVE]="#c6b2a8"
+    base[INSENSITIVE]="#abaaa3"
 }
 
 style "cde_style_6"
@@ -377,9 +377,9 @@ style "cde_style_sel_5"
     base[NORMAL]="#a8978f"
 
     fg[ACTIVE]  ="#000000"
-    bg[ACTIVE]  ="#c6b2a8"
+    bg[ACTIVE]  ="#abaaa3"
     text[ACTIVE]="#000000"
-    base[ACTIVE]="#c6b2a8"
+    base[ACTIVE]="#abaaa3"
 
     fg[PRELIGHT]="#000000"
     bg[PRELIGHT]="#6b605b"
